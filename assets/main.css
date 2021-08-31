@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(179, 228, 235);
+}
+
+.graphdescription {
+    background-color: rgb(28, 72, 119);
+    color: rgb(179, 228, 235);
+    font-size: 2.5ex;
+    height: 45px;
+    text-align: left;
+    text-indent: 3ex;
+    padding: 8px; ;
+    
+}
+
+.textanimation {
+    background-color: rgb(173, 212, 253);
+    color: rgb(28, 72, 119);
+    font-size: 3ex;
+    text-align: left;
+    padding: 8px;
+    text-indent: 2.5ex;
+}
